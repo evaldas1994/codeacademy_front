@@ -1,0 +1,53 @@
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    font-size: 1em;
+}
+header img {
+    width: 250px;
+    margin: 10px 0;
+}
+
+nav {
+    background: green;
+    padding: 4px 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+header nav ul li a {
+    padding: 0 40px;
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+main section.wrapper {
+    background: lightgray;
+}
+
+main section.wrapper img {
+    padding: 30px 30px 20px 30px;
+    height: 600px;
+}
+
+main section h2 {
+    background: green;
+    padding: 10px;
+    color: #eeeeee;
+    margin: 0 30px;
+}
+
+main section p {
+    padding: 0 0 3px 30px;
+}
+
+main section .contact {
+    background: lightgreen;
+    padding: 30px 0 10px 0px;
+}
