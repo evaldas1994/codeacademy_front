@@ -83,7 +83,7 @@ main section.form form .form-item {
 }
 
 main section.form form .form-item label, input, textarea {
-    width: 100%;
+    width: 98%;
     padding: 15px 10px;
 }
 
@@ -94,4 +94,28 @@ main section.form form input.button {
     background: green;
     color: #eeeeee;
     font-size: 1.2em;
+}
+
+main section.table {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+main section.table .row {
+    width: 100%;
+    border: 1px solid black;
+}
+
+main section.table .row div:first-child {
+    font-weight: bold;
+}
+
+main section.table .col {
+    border: 1px solid black;
+}
+
+main section.table .row .col.text-green {
+    color: green;
 }
