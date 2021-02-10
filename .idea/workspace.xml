@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="header done">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="changed demo1 folder name to demo2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_microsoft/.idea/demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/.idea/demo1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_microsoft/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_microsoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_microsoft/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_microsoft/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_microsoft/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo3_maxima/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo3_maxima/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo3_maxima/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo3_maxima/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,7 @@
       <updated>1612940942235</updated>
       <workItem from="1612940943654" duration="909000" />
       <workItem from="1612942102513" duration="136000" />
-      <workItem from="1612942701390" duration="4457000" />
+      <workItem from="1612942701390" duration="5971000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612947072974</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed demo1 folder name to demo2">
+      <created>1612947241789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612947241789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +138,7 @@
     <MESSAGE value="just try it" />
     <MESSAGE value="create demo2" />
     <MESSAGE value="header done" />
-    <option name="LAST_COMMIT_MESSAGE" value="header done" />
+    <MESSAGE value="changed demo1 folder name to demo2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed demo1 folder name to demo2" />
   </component>
 </project>
