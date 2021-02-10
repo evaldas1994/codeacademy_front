@@ -83,4 +83,30 @@ footer p {
     text-align: center;
 }
 
+/*CONTACT*/
+main section.left ul {
+    list-style: none;
+    padding: 0 10px;
+}
 
+main section.left li {
+    color: blue;
+    line-height: 30px;
+}
+
+main section.left form {
+    padding: 0 10px;
+}
+
+main section.left form .form-item {
+    margin-top: 10px;
+}
+
+main section.left form .form-item label, input, textarea {
+    width: 100%;
+}
+
+main section.left form button {
+    float: left;
+    margin: 10px 0;
+}
