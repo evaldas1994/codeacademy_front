@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+    max-width: 620px;
+    background-color: #eeeeee;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 10px 10px 10px;
+    border-radius: 5px;
+}
+
+header img {
+    max-width: 250px;
+}
+
+header ul {
+    list-style: none;
+}
+
+header li {
+    display: inline;
+}
+
+header li a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: black;
+}
+
+header li a:hover {
+    text-decoration: underline;
+}
