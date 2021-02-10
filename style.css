@@ -1,0 +1,86 @@
+body {
+    background-image: url("bg.png");
+}
+
+header {
+    width: 860px;
+    height: 80px;
+    background-color: yellowgreen;
+    margin: 0 auto;
+}
+header img {
+    width: 100px;
+    max-height: 80px;
+    padding: 15px;
+}
+
+header nav {
+    float: right;
+    height: 80px;
+    line-height: 80px;          /* vertical center*/
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;                  /* why? */
+}
+
+header nav ul li a {
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 1em;
+}
+
+main {
+    display: flex;
+    max-width: 860px;
+    background-color: white;
+    margin: 0 auto;
+}
+
+main section {
+    padding: 20px 0;
+    text-align: justify;
+}
+
+main section i {
+    padding: 0 10px;
+}
+
+main section p {
+    padding: 0 10px;
+}
+
+main section.left {
+    flex: 40%;
+}
+
+main section.right {
+    flex: 60%;
+}
+
+main section.right img {
+    float: left;
+    width: 200px;
+    padding: 0 10px;
+}
+
+main section.right ul {
+    margin: 0 10px;
+}
+
+main section button {
+    float: right;
+    padding: 15px 10px;
+    margin: 0 10px;
+    background-color: yellowgreen;
+    color: white;
+    border: none;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
+
