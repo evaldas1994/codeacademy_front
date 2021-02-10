@@ -86,3 +86,9 @@ section#contact img {
     object-fit: cover;
 }
 
+footer {
+    text-align: center;
+    padding: 5px;
+    color: #555555;
+}
+
