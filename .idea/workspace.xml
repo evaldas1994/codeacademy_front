@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="fixed menu">
-      <change afterPath="$PROJECT_DIR$/demoE_green/contact.html" afterDir="false" />
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="contact form done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoE_green/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demoE_green/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoE_green/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoE_green/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/demoE_green/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoE_green/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demoE_green/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
       <workItem from="1612942102513" duration="136000" />
       <workItem from="1612942701390" duration="9551000" />
       <workItem from="1612952543846" duration="3434000" />
-      <workItem from="1612956369735" duration="2610000" />
+      <workItem from="1612956369735" duration="4996000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -142,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612956690797</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="contact form done">
+      <created>1612959055959</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612959055959</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +188,7 @@
     <MESSAGE value="section contact done" />
     <MESSAGE value="section footer done" />
     <MESSAGE value="fixed menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed menu" />
+    <MESSAGE value="contact form done" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact form done" />
   </component>
 </project>

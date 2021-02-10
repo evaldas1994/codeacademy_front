@@ -59,7 +59,7 @@ main section.right {
     flex: 60%;
 }
 
-main section.right img {
+main section.right> img {
     float: left;
     width: 200px;
     padding: 0 10px;
@@ -109,4 +109,11 @@ main section.left form .form-item label, input, textarea {
 main section.left form button {
     float: left;
     margin: 10px 0;
+}
+
+main section.right img {  /* ? How to display img correct ? */
+    float: left;
+    width: 100%;
+    max-width: 500px;
+    padding: 0 10px;
 }
