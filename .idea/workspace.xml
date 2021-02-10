@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="create demo2" />
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="header done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_microsoft/.idea/demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/.idea/demo1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_microsoft/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_microsoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_microsoft/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_microsoft/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_microsoft/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo2_microsoft/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +33,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/demo1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -42,7 +56,7 @@
       <updated>1612940942235</updated>
       <workItem from="1612940943654" duration="909000" />
       <workItem from="1612942102513" duration="136000" />
-      <workItem from="1612942701390" duration="1233000" />
+      <workItem from="1612942701390" duration="4457000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -65,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612943734565</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create demo2">
+      <created>1612943995563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612943995563</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create demo2">
+      <created>1612944279788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612944279788</updated>
+    </task>
+    <task id="LOCAL-00006" summary="header done">
+      <created>1612947072974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612947072974</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +134,7 @@
     <MESSAGE value="changed title" />
     <MESSAGE value="just try it" />
     <MESSAGE value="create demo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="create demo2" />
+    <MESSAGE value="header done" />
+    <option name="LAST_COMMIT_MESSAGE" value="header done" />
   </component>
 </project>
