@@ -60,3 +60,13 @@ main section img {
 main section p {
     font-size: 1.2em;
 }
+
+footer {
+    background: #eeeeee;
+    text-align: center;
+}
+
+footer p {
+    padding: 20px 0;
+    font-size: 1.2em;
+}

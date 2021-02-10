@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="header done">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="fix main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo5_iki/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo5_iki/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo5_iki/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo5_iki/style.css" afterDir="false" />
@@ -55,7 +55,7 @@
       <workItem from="1612942701390" duration="9551000" />
       <workItem from="1612952543846" duration="3434000" />
       <workItem from="1612956369735" duration="5093000" />
-      <workItem from="1612972687450" duration="8007000" />
+      <workItem from="1612972687450" duration="8470000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -176,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612979944372</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="main done">
+      <created>1612981096402</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612981096402</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix main">
+      <created>1612981192395</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612981192395</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +234,8 @@
     <MESSAGE value="contact map done" />
     <MESSAGE value="demoE_green rename to demo4_green" />
     <MESSAGE value="header done" />
-    <option name="LAST_COMMIT_MESSAGE" value="header done" />
+    <MESSAGE value="main done" />
+    <MESSAGE value="fix main" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix main" />
   </component>
 </project>
