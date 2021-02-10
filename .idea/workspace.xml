@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="changed demo1 folder name to demo2">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="section about done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo3_maxima/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo3_maxima/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo3_maxima/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo3_maxima/style.css" afterDir="false" />
@@ -52,7 +52,8 @@
       <updated>1612940942235</updated>
       <workItem from="1612940943654" duration="909000" />
       <workItem from="1612942102513" duration="136000" />
-      <workItem from="1612942701390" duration="5971000" />
+      <workItem from="1612942701390" duration="9551000" />
+      <workItem from="1612952543846" duration="2469000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612947241789</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="section about done">
+      <created>1612948901328</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612948901328</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +147,7 @@
     <MESSAGE value="create demo2" />
     <MESSAGE value="header done" />
     <MESSAGE value="changed demo1 folder name to demo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed demo1 folder name to demo2" />
+    <MESSAGE value="section about done" />
+    <option name="LAST_COMMIT_MESSAGE" value="section about done" />
   </component>
 </project>
