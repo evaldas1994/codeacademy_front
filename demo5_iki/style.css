@@ -10,7 +10,7 @@ header {
     background-color: #eeeeee;
 }
 
-.wrapper {
+header .wrapper {
     display: flex;
     height: 60px;
     margin: 0 auto;
