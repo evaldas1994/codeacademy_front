@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="header done">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="main done and fix bg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo6_gelezinkeliai/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo6_gelezinkeliai/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo6_gelezinkeliai/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo6_gelezinkeliai/style.css" afterDir="false" />
@@ -60,7 +60,7 @@
       <workItem from="1612956369735" duration="5093000" />
       <workItem from="1612972687450" duration="12442000" />
       <workItem from="1613068632458" duration="714000" />
-      <workItem from="1613069849474" duration="3835000" />
+      <workItem from="1613069849474" duration="3990000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -223,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613072022550</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="main done and fix bg">
+      <created>1613073789506</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613073789506</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +278,7 @@
     <MESSAGE value="contact form done" />
     <MESSAGE value="contact table done" />
     <MESSAGE value="header done" />
-    <option name="LAST_COMMIT_MESSAGE" value="header done" />
+    <MESSAGE value="main done and fix bg" />
+    <option name="LAST_COMMIT_MESSAGE" value="main done and fix bg" />
   </component>
 </project>

@@ -55,3 +55,9 @@ main .wrapper .box-small {
     margin: 1em;
     border-radius: 5px;
 }
+
+footer {
+    text-align: center;
+    background: #eeeeee;
+    padding: 0.2em;
+}
