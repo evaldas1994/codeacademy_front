@@ -1,0 +1,41 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #ebebeb;
+}
+
+header .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    background-color: #ebebeb;
+    margin: 0 auto;
+}
+
+ header .wrapper img {
+     max-height: 50px;
+     padding: 10px 0;
+ }
+
+ header .wrapper nav ul {
+     list-style: none;
+ }
+
+ header .wrapper nav ul li {
+     display: inline;
+ }
+
+ header .wrapper nav ul li a {
+     text-decoration: none;
+     color: red;
+     font-size: 1.2em;
+     margin-right: 20px;
+ }
+
+header .wrapper nav ul li:last-child a {
+    margin-right: 0;
+}
+
