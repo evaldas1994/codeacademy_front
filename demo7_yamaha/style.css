@@ -6,11 +6,7 @@ header {
     background-color: #ebebeb;
 }
 
-header.wrapper {
-
-}
-
-header .wrapper, main section#slide .slide-wrapper, main section#categories {
+header .wrapper, main section#slide .slide-wrapper, main section#categories, main section#contacts {
     max-width: 960px;
     margin: 0 auto;
     display: flex;
@@ -62,12 +58,12 @@ main section#slide .slide-wrapper h1 {
     padding: 10px 0;
 }
 
-main section#categories h2 {
+main section#categories h2, main section#contacts h2 {
     color: red;
     width: 100%;
 }
 
-main section#categories h2 span {
+main section#categories h2 span, main section#contacts h2 span {
     opacity: 0.5;
 }
 
@@ -104,3 +100,46 @@ main section#categories .category p {
     color: #444;
     font-size: 0.9em;
 }
+
+main section#contacts {
+    display: flex;
+    align-items: flex-start;
+}
+
+main section#contacts .form {
+    width: calc((25% - (10px *3/4))*2 + 10px);
+    min-height: 20vh;
+
+}
+
+main section#contacts .form input, textarea {
+    width: calc(100%);
+    padding: 0.4em;
+    margin-top: 0.4em;
+    box-sizing: border-box;
+}
+
+main section#contacts .form input.button {
+    width: 30%;
+    padding: 0.4em;
+    margin-top: 0.4em;
+    background: none;
+    border: 1px solid red;
+}
+
+main section#contacts .form input.button:hover {
+    background: red;
+    color: #eeeeee;
+}
+
+main section#contacts .map {
+    width: calc((25% - (10px *3/4))*2 + 10px);
+    min-height: 20vh;
+    margin-left: 10px;
+}
+
+main section#contacts .map img {
+    max-width: 100%;
+
+}
+
