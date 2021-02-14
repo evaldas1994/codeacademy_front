@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="fix header">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="fix logo img alt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo7_yamaha/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo7_yamaha/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo7_yamaha/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo7_yamaha/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,9 @@
       <workItem from="1613069849474" duration="4901000" />
       <workItem from="1613216890440" duration="5736000" />
       <workItem from="1613223228012" duration="5439000" />
+      <workItem from="1613296995415" duration="1841000" />
+      <workItem from="1613299427304" duration="27000" />
+      <workItem from="1613299458025" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -267,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613227812542</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="fix logo img alt">
+      <created>1613297279636</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1613297279637</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +330,7 @@
     <MESSAGE value="footer done" />
     <MESSAGE value="main section slide done" />
     <MESSAGE value="fix header" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix header" />
+    <MESSAGE value="fix logo img alt" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix logo img alt" />
   </component>
 </project>
