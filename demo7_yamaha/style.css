@@ -3,7 +3,7 @@ html {
 }
 
 header {
-    background-color: #ebebeb;
+    background: #ebebeb;
 }
 
 header .wrapper, main section#slide .slide-wrapper, main section#categories, main section#contacts {
@@ -140,6 +140,13 @@ main section#contacts .map {
 
 main section#contacts .map img {
     max-width: 100%;
+}
 
+footer {
+    margin-top: 0.5em;
+    text-align: center;
+    background: #ebebeb;
+    color: #444444;
+    padding: 0.7em;
 }
 
