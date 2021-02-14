@@ -1,24 +1,22 @@
 html {
     font-family: 'Roboto', sans-serif;
-
-    height: 200vh;
 }
 
 header {
     background-color: #ebebeb;
 }
 
-header.wrapper, main {
-    background: url("https://raw.githubusercontent.com/PSlekys/CodeAcademyLT/master/HTML/10%20u%C5%BEduotis%20(Yamaha)/images/bike-rider.jpg");
-    background-size: cover;
+header.wrapper {
+
 }
 
-header .wrapper, main section#slide {
+header .wrapper, main section#slide .slide-wrapper, main section#categories {
     max-width: 960px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
  header .wrapper img {
@@ -47,11 +45,16 @@ header .wrapper nav ul li:last-child a {
 }
 
 main section#slide {
+    background: url("https://raw.githubusercontent.com/PSlekys/CodeAcademyLT/master/HTML/10%20u%C5%BEduotis%20(Yamaha)/images/bike-rider.jpg");
+    background-size: cover;
+}
+
+main section#slide .slide-wrapper {
     position: relative;
     min-height: 80vh;
 }
 
-main section#slide h1 {
+main section#slide .slide-wrapper h1 {
     position: absolute;
     bottom: 0;
     right: 0;
@@ -59,3 +62,45 @@ main section#slide h1 {
     padding: 10px 0;
 }
 
+main section#categories h2 {
+    color: red;
+    width: 100%;
+}
+
+main section#categories h2 span {
+    opacity: 0.5;
+}
+
+main section#categories .category {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: calc(25% - (10px *3/4));
+    border: 1px solid #DBDEE5;;
+    padding: 0.5em;
+    box-sizing: border-box;
+    margin-right: 10px;
+    background-color: #F3F6F8;
+}
+
+main section#categories .category:last-child {
+    margin-right: 0;
+}
+
+main section#categories .category img {
+    max-width: calc(100% - 4px);
+    height: auto;
+    object-fit: contain;
+    padding: 10px;
+}
+
+main section#categories .category h3:before {
+    content: "\2666";
+    padding-right: 10px;
+}
+
+main section#categories .category p {
+    text-align: justify;
+    color: #444;
+    font-size: 0.9em;
+}
