@@ -41,7 +41,7 @@ header .wrapper nav ul li:last-child a {
 }
 
 main section#slide {
-    background: url("https://raw.githubusercontent.com/PSlekys/CodeAcademyLT/master/HTML/10%20u%C5%BEduotis%20(Yamaha)/images/bike-rider.jpg");
+    background-image: url("https://raw.githubusercontent.com/PSlekys/CodeAcademyLT/master/HTML/10%20u%C5%BEduotis%20(Yamaha)/images/bike-rider.jpg");
     background-size: cover;
 }
 
@@ -108,8 +108,6 @@ main section#contacts {
 
 main section#contacts .form {
     width: calc((25% - (10px *3/4))*2 + 10px);
-    min-height: 20vh;
-
 }
 
 main section#contacts .form input, textarea {
@@ -134,7 +132,6 @@ main section#contacts .form input.button:hover {
 
 main section#contacts .map {
     width: calc((25% - (10px *3/4))*2 + 10px);
-    min-height: 20vh;
     margin-left: 10px;
 }
 
@@ -165,6 +162,45 @@ footer {
 
     header .wrapper nav ul li:last-child a {
         margin: 0 0.5em;
+    }
+
+    main section#slide .slide-wrapper {
+        min-height: 30vh;
+    }
+
+    main section#categories {
+        flex-direction: column;
+    }
+    main section#categories .category {
+        width: 100%;
+        margin-top: 0.5em;
+    }
+
+    main section#contacts {
+        flex-direction: column;
+    }
+
+    main section#contacts .form {
+
+        width: calc(80% - 8px);
+        display: flex;
+        margin: 0 auto;
+    }
+
+    main section#contacts .form input, textarea {
+        box-sizing: border-box;
+        width: calc(100% - 4px);
+    }
+
+    main section#contacts .form input.button {
+        box-sizing: border-box;
+        width: calc(100% - 4px);
+    }
+
+    main section#contacts .map {
+        margin-top: 0.4em;
+        width: 100%;
+        margin-left: 0;
     }
 }
 
