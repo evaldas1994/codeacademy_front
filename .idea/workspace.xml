@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="section contacts done">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="footer done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo7_yamaha/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo7_yamaha/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo7_yamaha/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo7_yamaha/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,8 @@
       <workItem from="1613223228012" duration="5439000" />
       <workItem from="1613296995415" duration="1841000" />
       <workItem from="1613299427304" duration="27000" />
-      <workItem from="1613299458025" duration="8625000" />
+      <workItem from="1613299458025" duration="8697000" />
+      <workItem from="1613308920727" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -299,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613307821593</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="footer done">
+      <created>1613308244149</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1613308244149</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,13 +355,13 @@
     <MESSAGE value="header done" />
     <MESSAGE value="main done and fix bg" />
     <MESSAGE value="fix demo6" />
-    <MESSAGE value="footer done" />
     <MESSAGE value="main section slide done" />
     <MESSAGE value="fix header" />
     <MESSAGE value="fix logo img alt" />
     <MESSAGE value="fix section slide" />
     <MESSAGE value="section categories done" />
     <MESSAGE value="section contacts done" />
-    <option name="LAST_COMMIT_MESSAGE" value="section contacts done" />
+    <MESSAGE value="footer done" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer done" />
   </component>
 </project>
