@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="header responsive (max-width: 550px)">
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="Practices of basic data types">
+      <change afterPath="$PROJECT_DIR$/demo12.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo13.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo13.js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo13.js/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo14.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo14.js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo14.js/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo15.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo15.js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo15.js/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo9/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo7_yamaha/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo7_yamaha/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo7_yamaha/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo7_yamaha/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo8_miligram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo8_miligram/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo8_miligram/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo8_miligram/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +47,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\evald\code\cAcademy\front" />
+      <recent name="C:\Users\evald\code\cAcademy\front\demo12.js" />
       <recent name="C:\Users\evald\cAcademy\front\demo1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +81,13 @@
       <workItem from="1613296995415" duration="1841000" />
       <workItem from="1613299427304" duration="27000" />
       <workItem from="1613299458025" duration="8697000" />
-      <workItem from="1613308920727" duration="2689000" />
+      <workItem from="1613308920727" duration="3400000" />
+      <workItem from="1613363657015" duration="33000" />
+      <workItem from="1613408020064" duration="5960000" />
+      <workItem from="1613579709276" duration="2275000" />
+      <workItem from="1613676489105" duration="1885000" />
+      <workItem from="1613678685300" duration="460000" />
+      <workItem from="1613751936490" duration="5915000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -314,7 +334,49 @@
       <option name="project" value="LOCAL" />
       <updated>1613309582444</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="main responsive (max-width: 550px)">
+      <created>1613311704533</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1613311704533</updated>
+    </task>
+    <task id="LOCAL-00037" summary="header done (max-width: 550px)">
+      <created>1613411396641</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1613411396641</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Get element by id [ ]">
+      <created>1613677601497</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1613677601498</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Get element by id [ ]">
+      <created>1613678091457</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1613678091457</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Get element by id [ ]&#10;&#10;.textContent&#10;.style.background">
+      <created>1613678382749</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1613678382749</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Practices of basic data types">
+      <created>1613679001442</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613679001442</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,11 +407,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="just try it" />
-    <MESSAGE value="create demo2" />
-    <MESSAGE value="changed demo1 folder name to demo2" />
-    <MESSAGE value="section about done" />
-    <MESSAGE value="section products done" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/demoE" />
+    </ignored-roots>
     <MESSAGE value="section contact done" />
     <MESSAGE value="section footer done" />
     <MESSAGE value="fixed menu" />
@@ -370,6 +430,11 @@
     <MESSAGE value="section contacts done" />
     <MESSAGE value="footer done" />
     <MESSAGE value="header responsive (max-width: 550px)" />
-    <option name="LAST_COMMIT_MESSAGE" value="header responsive (max-width: 550px)" />
+    <MESSAGE value="main responsive (max-width: 550px)" />
+    <MESSAGE value="header done (max-width: 550px)" />
+    <MESSAGE value="Get element by id [ ]" />
+    <MESSAGE value="Get element by id [ ]&#10;&#10;.textContent&#10;.style.background" />
+    <MESSAGE value="Practices of basic data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practices of basic data types" />
   </component>
 </project>
