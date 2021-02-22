@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="Practices of basic data types">
-      <change afterPath="$PROJECT_DIR$/demo12.js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo13.js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo13.js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo13.js/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo14.js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo14.js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo14.js/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo15.js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo15.js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo15.js/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo9/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="09874bad-6ef2-4703-b024-26fb01e6d965" name="Default Changelist" comment="update with more functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo8_miligram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo8_miligram/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo8_miligram/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo8_miligram/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +11,15 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +32,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +50,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\evald\code\cAcademy\front" />
+      <recent name="C:\Users\evald\code\cAcademy\front\demo18_js_radio" />
       <recent name="C:\Users\evald\code\cAcademy\front\demo12.js" />
       <recent name="C:\Users\evald\cAcademy\front\demo1" />
     </key>
@@ -87,7 +85,13 @@
       <workItem from="1613579709276" duration="2275000" />
       <workItem from="1613676489105" duration="1885000" />
       <workItem from="1613678685300" duration="460000" />
-      <workItem from="1613751936490" duration="5915000" />
+      <workItem from="1613751936490" duration="10458000" />
+      <workItem from="1613847270051" duration="6229000" />
+      <workItem from="1613923574972" duration="39000" />
+      <workItem from="1614017072257" duration="4471000" />
+      <workItem from="1614021970879" duration="232000" />
+      <workItem from="1614022696444" duration="1359000" />
+      <workItem from="1614024116203" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="changed title">
       <created>1612941078026</created>
@@ -376,7 +380,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613679001442</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Practices of js">
+      <created>1613758700502</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613758700502</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix radio">
+      <created>1613850347811</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613850347811</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update with more functions">
+      <created>1613853564344</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1613853564344</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,9 +435,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/demoE" />
     </ignored-roots>
-    <MESSAGE value="section contact done" />
-    <MESSAGE value="section footer done" />
-    <MESSAGE value="fixed menu" />
     <MESSAGE value="contact map done" />
     <MESSAGE value="demoE_green rename to demo4_green" />
     <MESSAGE value="main done" />
@@ -435,6 +457,9 @@
     <MESSAGE value="Get element by id [ ]" />
     <MESSAGE value="Get element by id [ ]&#10;&#10;.textContent&#10;.style.background" />
     <MESSAGE value="Practices of basic data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practices of basic data types" />
+    <MESSAGE value="Practices of js" />
+    <MESSAGE value="fix radio" />
+    <MESSAGE value="update with more functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="update with more functions" />
   </component>
 </project>
